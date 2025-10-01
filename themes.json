@@ -1,0 +1,51 @@
+{
+  "Light": {
+    "bg": "#ffffff", "fg": "#000000",
+    "user_bg": "#e3f2fd", "user_fg": "#1565c0",
+    "bot_bg": "#f1f8e9", "bot_fg": "#2e7d32",
+    "clear_bg": "#e3f2fd", "clear_fg": "#1565c0",
+    "theme_bg": "#f1f8e9", "theme_fg": "#2e7d32"
+  },
+  "Dark": {
+    "bg": "#121212", "fg": "#ffffff",
+    "user_bg": "#1e88e5", "user_fg": "#ffffff",
+    "bot_bg": "#263238", "bot_fg": "#b2dfdb",
+    "clear_bg": "#1e88e5", "clear_fg": "#ffffff",
+    "theme_bg": "#263238", "theme_fg": "#b2dfdb"
+  },
+  "Solarized Light": {
+    "bg": "#fdf6e3", "fg": "#657b83",
+    "user_bg": "#eee8d5", "user_fg": "#268bd2",
+    "bot_bg": "#fdf6e3", "bot_fg": "#657b83",
+    "clear_bg": "#eee8d5", "clear_fg": "#268bd2",
+    "theme_bg": "#fdf6e3", "theme_fg": "#657b83"
+  },
+  "Solarized Dark": {
+    "bg": "#002b36", "fg": "#839496",
+    "user_bg": "#073642", "user_fg": "#b58900",
+    "bot_bg": "#002b36", "bot_fg": "#839496",
+    "clear_bg": "#073642", "clear_fg": "#b58900",
+    "theme_bg": "#002b36", "theme_fg": "#839496"
+  },
+  "Monokai": {
+    "bg": "#272822", "fg": "#f8f8f2",
+    "user_bg": "#66d9ef", "user_fg": "#272822",
+    "bot_bg": "#49483e", "bot_fg": "#f8f8f2",
+    "clear_bg": "#66d9ef", "clear_fg": "#272822",
+    "theme_bg": "#49483e", "theme_fg": "#f8f8f2"
+  },
+  "Material": {
+    "bg": "#263238", "fg": "#eceff1",
+    "user_bg": "#80cbc4", "user_fg": "#263238",
+    "bot_bg": "#37474f", "bot_fg": "#eceff1",
+    "clear_bg": "#80cbc4", "clear_fg": "#263238",
+    "theme_bg": "#37474f", "theme_fg": "#eceff1"
+  },
+  "High Contrast": {
+    "bg": "#000000", "fg": "#ffff00",
+    "user_bg": "#ffff00", "user_fg": "#000000",
+    "bot_bg": "#000000", "bot_fg": "#ffff00",
+    "clear_bg": "#ffff00", "clear_fg": "#000000",
+    "theme_bg": "#000000", "theme_fg": "#ffff00"
+  }
+}
