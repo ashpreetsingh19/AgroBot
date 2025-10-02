@@ -14,16 +14,16 @@ from PySide6.QtGui import QAction, QKeyEvent
 
 # Import intents and responses from a separate Python file
 try:
-    from responses_data import intents as default_intents, responses as default_responses
+    from AgroBot.responses_data import intents as default_intents, responses as default_responses
 except ImportError:
     default_intents = {}
     default_responses = {}
 
 # Import weather API functions from weather_api.py
-from weather_api import get_user_location, get_weather, get_weather_by_coordinates, get_7_day_forecast
+from AgroBot.weather_api import get_user_location, get_weather, get_weather_by_coordinates, get_7_day_forecast
 
 # Import pest control advice from pest_control.py
-from pest_control import PestControl
+from AgroBot.pest_control import PestControl
 
 USERS_FILE = "users.json"
 THEMES_FILE = "theme.json"
